@@ -1,0 +1,168 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/comorbidities-preinfarction---primary.py
+inputModule3:
+  class: File
+  path: python/comorbidities-allograft---primary.py
+inputModule4:
+  class: File
+  path: python/comorbidities-stenosis---primary.py
+inputModule5:
+  class: File
+  path: python/comorbidities-unspecified---primary.py
+inputModule6:
+  class: File
+  path: python/subendocardial-comorbidities---primary.py
+inputModule7:
+  class: File
+  path: python/comorbidities-angina---primary.py
+inputModule8:
+  class: File
+  path: python/percutaneous-comorbidities---primary.py
+inputModule9:
+  class: File
+  path: python/comorbidities-vessel---primary.py
+inputModule10:
+  class: File
+  path: python/comorbidities-implant---primary.py
+inputModule11:
+  class: File
+  path: python/comorbidities-three---primary.py
+inputModule12:
+  class: File
+  path: python/coronary-comorbidities---primary.py
+inputModule13:
+  class: File
+  path: python/current-comorbidities---primary.py
+inputModule14:
+  class: File
+  path: python/comorbidities-folow---primary.py
+inputModule15:
+  class: File
+  path: python/therapeutic-comorbidities---primary.py
+inputModule16:
+  class: File
+  path: python/comorbidities-replacement---primary.py
+inputModule17:
+  class: File
+  path: python/comorbidities-asthma---primary.py
+inputModule18:
+  class: File
+  path: python/lateral-comorbidities---primary.py
+inputModule19:
+  class: File
+  path: python/angioplasty-comorbidities---primary.py
+inputModule20:
+  class: File
+  path: python/comorbidities-forms---primary.py
+inputModule21:
+  class: File
+  path: python/comorbidities-unspecif---primary.py
+inputModule22:
+  class: File
+  path: python/comorbidities-operation---primary.py
+inputModule23:
+  class: File
+  path: python/comorbidities---primary.py
+inputModule24:
+  class: File
+  path: python/intracerebral-comorbidities---primary.py
+inputModule25:
+  class: File
+  path: python/comorbidities-vpresence---primary.py
+inputModule26:
+  class: File
+  path: python/myocardal-comorbidities---primary.py
+inputModule27:
+  class: File
+  path: python/comorbidities-failure---primary.py
+inputModule28:
+  class: File
+  path: python/comorbidities-connection---primary.py
+inputModule29:
+  class: File
+  path: python/comorbidities-stroke---primary.py
+inputModule30:
+  class: File
+  path: python/prosthetic-comorbidities---primary.py
+inputModule31:
+  class: File
+  path: python/stent-comorbidities---primary.py
+inputModule32:
+  class: File
+  path: python/comorbidities-translum---primary.py
+inputModule33:
+  class: File
+  path: python/diagnostic-comorbidities---primary.py
+inputModule34:
+  class: File
+  path: python/comorbidities-ischaemia---primary.py
+inputModule35:
+  class: File
+  path: python/comorbidities-decubitus---primary.py
+inputModule36:
+  class: File
+  path: python/comorbidities-revision---primary.py
+inputModule37:
+  class: File
+  path: python/comorbidities-anastomosis---primary.py
+inputModule38:
+  class: File
+  path: python/comorbidities-pectoris---primary.py
+inputModule39:
+  class: File
+  path: python/comorbidities-bypass---primary.py
+inputModule40:
+  class: File
+  path: python/comorbidities-posterior---primary.py
+inputModule41:
+  class: File
+  path: python/comorbidities-repair---primary.py
+inputModule42:
+  class: File
+  path: python/comorbidities-subacute---primary.py
+inputModule43:
+  class: File
+  path: python/comorbidities-autograft---primary.py
+inputModule44:
+  class: File
+  path: python/comorbidities-tia---primary.py
+inputModule45:
+  class: File
+  path: python/comorbidities-anginosus---primary.py
+inputModule46:
+  class: File
+  path: python/comorbidities-elevation---primary.py
+inputModule47:
+  class: File
+  path: python/comorbidities-steno---primary.py
+inputModule48:
+  class: File
+  path: python/comorbidities-heart---primary.py
+inputModule49:
+  class: File
+  path: python/comorbidities-haemorrhage---primary.py
+inputModule50:
+  class: File
+  path: python/comorbidities-muscle---primary.py
+inputModule51:
+  class: File
+  path: python/chronic-comorbidities---primary.py
+inputModule52:
+  class: File
+  path: python/comorbidities-insufficiency---primary.py
+inputModule53:
+  class: File
+  path: python/comorbidities-infarct---primary.py
+inputModule54:
+  class: File
+  path: python/atrial-comorbidities---primary.py
+inputModule55:
+  class: File
+  path: python/transmural-comorbidities---primary.py
+inputModule56:
+  class: File
+  path: python/output-cases.py
