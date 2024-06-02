@@ -72,7 +72,7 @@ inputModule24:
   path: python/intracerebral-comorbidities---primary.py
 inputModule25:
   class: File
-  path: python/comorbidities-vpresence---primary.py
+  path: python/comorbidities-presence---primary.py
 inputModule26:
   class: File
   path: python/myocardal-comorbidities---primary.py
