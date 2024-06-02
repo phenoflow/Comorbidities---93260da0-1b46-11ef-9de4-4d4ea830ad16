@@ -264,8 +264,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: comorbidities---primary/output
-  comorbidities-vpresence---primary:
-    run: comorbidities-vpresence---primary.cwl
+  comorbidities-presence---primary:
+    run: comorbidities-presence---primary.cwl
     out:
     - output
     in:
@@ -285,7 +285,7 @@ steps:
         source: inputModule26
       potentialCases:
         id: potentialCases
-        source: comorbidities-vpresence---primary/output
+        source: comorbidities-presence---primary/output
   comorbidities-failure---primary:
     run: comorbidities-failure---primary.cwl
     out:
